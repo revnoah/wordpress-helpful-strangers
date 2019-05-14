@@ -1,0 +1,32 @@
+{
+  "name": "wordpress-helpful-strangers",
+  "version": "1.0.0",
+  "description": "WordPress plugin to several helper functions present in other frameworks to help with development.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-zip": "^4.2.0"
+  },
+  "scripts": {
+    "build": "phpcs && gulp",
+    "test": "phpcs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revnoah/wordpress-helpful-strangers.git"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "css",
+    "class"
+  ],
+  "author": "Noah J. Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revnoah/wordpress-helpful-strangers/issues"
+  },
+  "homepage": "https://github.com/revnoah/wordpress-helpful-strangers#readme"
+}
