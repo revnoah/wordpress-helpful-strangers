@@ -16,16 +16,6 @@ the WordPress plugins screen directly.
 3. Use the Settings->Helpful Strangers screen to configure the plugin. You must choose either frontend or admin to see changes.
 4. Customize output by adding any of the files below based on the front or admin settings you selected.
 
-## Settings
-
-The plugin adds a menu item to the Settings menu. It is advisable to review and, if desired, update 
-these settings after activating the plugin.
-
-## Using This Plugin
-
-This plugin operates by adding classes to the body tag on pages. The classes are all related to the 
-current user, and can be helpful in stlying based on roles and other characteristics.
-
 ## Contributing
 
 Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file if you are interested in helping develop or 

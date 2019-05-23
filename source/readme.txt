@@ -3,7 +3,7 @@ Contributors: revnoah
 Donate link: https://donate.noahjstewart.com/
 Tags: helper functions
 Requires at least: 4.6
-Tested up to: 5.2.0
+Tested up to: 5.2.1
 Stable tag: 5.2.0
 Requires PHP: 5.6.40
 License: ISC
@@ -33,6 +33,9 @@ the WordPress plugins screen directly.
 The best way to familiarize yourself with the functions is to review the code.
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed readme
 
 = 1.0.0 =
 * Initial commit
